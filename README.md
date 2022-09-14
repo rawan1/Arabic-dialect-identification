@@ -1,5 +1,6 @@
 # Arabic-dialect-identification
 This repo is for a speech communication project in Damascus university
+##### 14/09/2022
 ### Data preprocessng Steps:
 + Remove Emoji
 + Remove punctuations
