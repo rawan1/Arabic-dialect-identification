@@ -1,6 +1,6 @@
 # Arabic-dialect-identification
 This repo is for a speech communication project in Damascus university
-##### 14/09/2022
+##### 22/09/2022
 ### Data preprocessng Steps:
 + Remove Emoji
 + Remove punctuations
@@ -15,3 +15,7 @@ This repo is for a speech communication project in Damascus university
 ### Features used:
 + CountVectorizer
 + TfidfVectorizer
+### Future directions
++ Try to use different architecture and techniques like pre-trained Mazajak embedding
++ Try to use the Arabert Model 
++ Try to use Deep learning models and compare the results
